@@ -1,0 +1,13 @@
+{
+  "name": "tiny-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ZhaZhengRefn/tiny-pack.git",
+  "author": "ZhaZhengRefn <512557403@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0"
+  }
+}
